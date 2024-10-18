@@ -37,7 +37,8 @@ klipper 宏示例
  警告：在实施第三方宏时，请特别注意在探测或探测拾取后引用 Z 行程高度或 Z 移动等内容的任何变量。
 我们建议 Z 轴移动或行程高度为 15 mm，以确保探头和床之间有足够的间隙。
  提示：最新的宏在 github 存储库中作为捆绑的 .zip 文件供下载 - Euclid github 存储库
-serial:
+ 
+```
 #  __________________________________________________________________________
 #  |                                                                        |
 #  |                                                                        |
@@ -246,3 +247,4 @@ gcode: gcode: SET_KINEMATIC_POSITION Z=0
   BED_MESH_CALIBRATE_ORIGINAL
   G0 Z15 F500           ; raise bed to 15
   M402                  ; retract Euclid Probe
+```
