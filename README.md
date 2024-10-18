@@ -22,3 +22,4 @@ The most current info, including printable dock and mount files are also hosted 
 ## Euclid Probe YouTube Channel 
 
 <a href="https://www.youtube.com/channel/UCIUXRiUfHCOrqRxitcH9O6g" target="new"><img src="https://github.com/nionio6915/Euclid_Probe/blob/main/images/VoronStill2.png"><br>Euclid Probe YouTube channel</br></a>
+![IsoTN](https://github.com/user-attachments/assets/b366cb9d-9635-4fc6-a7a2-7a94b25dc28a)
