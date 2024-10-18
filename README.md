@@ -20,9 +20,6 @@ The most current info, including printable dock and mount files are also hosted 
 
 **<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.**
 
-## Euclid Probe YouTube Channel 
-
-<a href="https://www.youtube.com/channel/UCIUXRiUfHCOrqRxitcH9O6g" target="new"><img src="https://github.com/nionio6915/Euclid_Probe/blob/main/images/VoronStill2.png"><br>Euclid Probe YouTube channel</br></a>
 
 klipper 宏示例
 由于 klipper 的有机性和惯用性，没有部署和缩回探针的标准方法。因此，我们提供了一组基本的宏，作为用户自定义的框架。以下宏是基本宏，希望在调试时能打印一次。
